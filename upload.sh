@@ -9,6 +9,6 @@ MODEL_DIR="models/lk-news-topic-classifier"
 cp model_card/README.md "$MODEL_DIR/README.md"
 cp results/topic_finetuned.json "$MODEL_DIR/eval_results.json"
 hf auth whoami >/dev/null || { echo "Not logged in. Run: hf auth login"; exit 1; }
-hf repo create "$REPO" --repo-type model --exist-ok
+hf repos create "$REPO" --repo-type model --exist-ok
 hf upload "$REPO" "$MODEL_DIR" . --commit-message "Upload lk-news-topic-classifier"
 echo "Done: https://huggingface.co/$REPO"
