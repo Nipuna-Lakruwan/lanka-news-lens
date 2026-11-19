@@ -1,0 +1,38 @@
+{
+  "all": {
+    "n": 180,
+    "same_event": 161,
+    "precision": 0.894,
+    "ci95_wilson": [
+      0.841,
+      0.931
+    ]
+  },
+  "en-si": {
+    "n": 60,
+    "same_event": 57,
+    "precision": 0.95,
+    "ci95_wilson": [
+      0.863,
+      0.983
+    ]
+  },
+  "en-ta": {
+    "n": 60,
+    "same_event": 54,
+    "precision": 0.9,
+    "ci95_wilson": [
+      0.799,
+      0.953
+    ]
+  },
+  "si-ta": {
+    "n": 60,
+    "same_event": 50,
+    "precision": 0.833,
+    "ci95_wilson": [
+      0.72,
+      0.907
+    ]
+  }
+}

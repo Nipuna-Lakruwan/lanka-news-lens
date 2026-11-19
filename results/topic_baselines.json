@@ -1,0 +1,190 @@
+{
+  "keyword_rules": {
+    "all": {
+      "n": 450,
+      "macro_f1": 0.66,
+      "macro_f1_ci95": [
+        0.595,
+        0.714
+      ],
+      "accuracy": 0.629
+    },
+    "en": {
+      "n": 150,
+      "macro_f1": 0.697,
+      "macro_f1_ci95": [
+        0.593,
+        0.79
+      ],
+      "accuracy": 0.667
+    },
+    "si": {
+      "n": 150,
+      "macro_f1": 0.618,
+      "macro_f1_ci95": [
+        0.506,
+        0.7
+      ],
+      "accuracy": 0.593
+    },
+    "ta": {
+      "n": 150,
+      "macro_f1": 0.668,
+      "macro_f1_ci95": [
+        0.527,
+        0.757
+      ],
+      "accuracy": 0.627
+    },
+    "per_class": {
+      "politics": {
+        "precision": 0.835,
+        "recall": 0.635,
+        "f1-score": 0.721,
+        "support": 104
+      },
+      "economy": {
+        "precision": 0.81,
+        "recall": 0.618,
+        "f1-score": 0.701,
+        "support": 76
+      },
+      "crime": {
+        "precision": 0.779,
+        "recall": 0.662,
+        "f1-score": 0.716,
+        "support": 80
+      },
+      "disaster_weather": {
+        "precision": 0.882,
+        "recall": 0.469,
+        "f1-score": 0.612,
+        "support": 32
+      },
+      "health": {
+        "precision": 0.714,
+        "recall": 0.5,
+        "f1-score": 0.588,
+        "support": 10
+      },
+      "sports": {
+        "precision": 0.917,
+        "recall": 0.611,
+        "f1-score": 0.733,
+        "support": 18
+      },
+      "education": {
+        "precision": 0.7,
+        "recall": 0.875,
+        "f1-score": 0.778,
+        "support": 8
+      },
+      "international": {
+        "precision": 0.913,
+        "recall": 0.488,
+        "f1-score": 0.636,
+        "support": 43
+      },
+      "other": {
+        "precision": 0.33,
+        "recall": 0.734,
+        "f1-score": 0.455,
+        "support": 79
+      }
+    }
+  },
+  "tfidf_logreg": {
+    "all": {
+      "n": 450,
+      "macro_f1": 0.748,
+      "macro_f1_ci95": [
+        0.694,
+        0.793
+      ],
+      "accuracy": 0.771
+    },
+    "en": {
+      "n": 150,
+      "macro_f1": 0.777,
+      "macro_f1_ci95": [
+        0.706,
+        0.854
+      ],
+      "accuracy": 0.78
+    },
+    "si": {
+      "n": 150,
+      "macro_f1": 0.761,
+      "macro_f1_ci95": [
+        0.677,
+        0.831
+      ],
+      "accuracy": 0.773
+    },
+    "ta": {
+      "n": 150,
+      "macro_f1": 0.672,
+      "macro_f1_ci95": [
+        0.604,
+        0.81
+      ],
+      "accuracy": 0.76
+    },
+    "per_class": {
+      "politics": {
+        "precision": 0.798,
+        "recall": 0.875,
+        "f1-score": 0.835,
+        "support": 104
+      },
+      "economy": {
+        "precision": 0.753,
+        "recall": 0.882,
+        "f1-score": 0.812,
+        "support": 76
+      },
+      "crime": {
+        "precision": 0.793,
+        "recall": 0.863,
+        "f1-score": 0.826,
+        "support": 80
+      },
+      "disaster_weather": {
+        "precision": 0.846,
+        "recall": 0.688,
+        "f1-score": 0.759,
+        "support": 32
+      },
+      "health": {
+        "precision": 0.409,
+        "recall": 0.9,
+        "f1-score": 0.562,
+        "support": 10
+      },
+      "sports": {
+        "precision": 0.944,
+        "recall": 0.944,
+        "f1-score": 0.944,
+        "support": 18
+      },
+      "education": {
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1-score": 0.667,
+        "support": 8
+      },
+      "international": {
+        "precision": 0.814,
+        "recall": 0.814,
+        "f1-score": 0.814,
+        "support": 43
+      },
+      "other": {
+        "precision": 0.829,
+        "recall": 0.367,
+        "f1-score": 0.509,
+        "support": 79
+      }
+    }
+  }
+}

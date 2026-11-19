@@ -1,0 +1,21 @@
+{
+  "threshold": 0.55,
+  "cross_bonus": 0.03,
+  "window_h": 36.0,
+  "max_span_h": 96.0,
+  "n_articles": 135849,
+  "n_stories": 90378,
+  "n_multi_article": 19844,
+  "n_multilang": 10605,
+  "n_trilingual": 3046,
+  "articles_in_multilang_by_lang": {
+    "si": 14314,
+    "ta": 13952,
+    "en": 13061
+  },
+  "articles_by_lang": {
+    "ta": 52997,
+    "en": 51181,
+    "si": 31671
+  }
+}

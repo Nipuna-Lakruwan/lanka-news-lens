@@ -1,0 +1,74 @@
+date,story_id,story,sentence,text,cites,verdict,note
+2024-09-22,27182,0,0,Ranil Wickremesinghe has transferred leadership of Sri Lanka to President Anura Dissanayake.,1 2 4 5 6,ok,
+2024-09-22,27182,0,1,He expressed gratitude to the people for their mandate in the 21st presidential election.,1 4 6,ok,
+2024-09-22,27182,0,2,He described Sri Lanka as a beloved child entrusted to the new president.,1 3 6,ok,
+2024-09-22,27182,0,3,The handover occurred following the presidential election held on the 21st.,2 3 4 5 6,ok,
+2024-09-22,27106,1,0,"Anura Kumara Dissanayake received 11,768 postal votes in Polonnaruwa.",1 2,ok,
+2024-09-22,27106,1,1,"Sajith Premadasa received 4,120 votes in the district.",1 2,ok,
+2024-09-22,27106,1,2,"Ranil Wickremesinghe received 2,762 postal votes in Polonnaruwa.",1 2,ok,
+2024-09-22,27106,1,3,Namal Rajapaksa received 188 postal votes in the district.,1,ok,
+2024-09-22,27134,2,0,"Sajith Premadasa received 28,301 votes in Mullaitivu polling division.",1 2,ok,
+2024-09-22,27134,2,1,"He secured 30,877 votes in Medawachchiya polling division.",1,ok,
+2024-09-22,27134,2,2,Results for Bentara-Elpitiya show Dissanayake leading.,1,ok,
+2024-09-22,27134,2,3,"Source reports different vote counts and candidates, inconsistent with other reports.",3,wrong,"meta-comment about sources, not news"
+2024-09-22,27109,3,0,Police will not issue curfew passes for general travel during the curfew.,1 2 3,ok,
+2024-09-22,27109,3,1,Essential and emergency workers can use official ID cards as curfew passes.,1 2 3,ok,
+2024-09-22,27109,3,2,The curfew is in effect from 10.00 p.m. tonight to 6.00 a.m. tomorrow.,1,ok,
+2024-09-22,27109,3,3,The curfew was imposed under the Public Security Ordinance following election results.,1,ok,
+2024-09-22,27099,4,0,Curfew extended from 10 p.m. on 21 to 6 a.m. on 22.,1 3,wrong,curfew was extended to 12 noon; 10pm-6am was the original curfew
+2024-09-22,27099,4,1,Police will not issue curfew permits during this period.,2,ok,
+2024-09-22,27099,4,2,Essential services may use ID cards as curfew permits.,2,ok,
+2024-09-22,27099,4,3,Curfew extension follows the 9th President's decision.,3,wrong,"source mentions the 9th presidential election, not a president's decision"
+2024-11-15,32631,0,0,The National People’s Power (NPP) won 123 seats in the 225-member Parliament.,1 3,minor,123 seats was a mid-count figure; final was 159 (stated in the next sentence)
+2024-11-15,32631,0,1,The NPP secured a two-thirds majority with 16 seats in Gampaha District.,1,wrong,conflates the two-thirds claim with Gampaha's 16 seats
+2024-11-15,32631,0,2,The party has 159 seats including 18 national list seats.,5 6,ok,
+2024-11-15,32631,0,3,This gives NPP a parliamentary majority as it surpassed the 113-seat threshold.,1 4 6,ok,
+2024-11-15,32770,1,0,A light truck collided with a train at a railway crossing in Weligama.,1 2 3,ok,
+2024-11-15,32770,1,1,The driver disobeyed a red signal at the Polwatte Weligama level crossing.,1,ok,
+2024-11-15,32770,1,2,"Seven people, including two children, were injured and hospitalized, some in critical condition.",1 2 3,ok,
+2024-11-15,32678,2,0,Election results for Kaludi District have been announced.,1,wrong,sources had titles only; 'Kaludi District' is invented (source is Badulla)
+2024-11-15,32678,2,1,Results for Kallarikai District were released by Tamil Mirror.,2,wrong,"'Kallarikai' is invented; source is Galle district, Akmeemana results"
+2024-11-15,32678,2,2,Voting results for Pandaraka constituency in Kallarikai District are finalized.,4,wrong,"Bandaragama is in Kalutara, not 'Kallarikai'"
+2024-11-15,32678,2,3,No results were reported for Matale District.,3,wrong,source 3 IS the Matale result
+2024-11-15,32729,3,0,Several former ministers lost their parliamentary seats in the 2024 election.,1 3,ok,
+2024-11-15,32729,3,1,The election marks a historic shift as long-serving MPs were ousted.,2 3,ok,
+2024-11-15,32729,3,2,The results show a significant decline in former government representation.,1 3,ok,
+2024-11-15,32729,3,3,The former MPs were part of a decade-long parliamentary tradition.,2 3,minor,vague paraphrase of 'MPs who represented parliament for decades'
+2024-11-15,32687,4,0,"Two former ministers, Manush Nayanakkar and Ramesh Pattirana, lost their parliamentary seats.",1 2,minor,"names garbled (Manusha Nanayakkara, Ramesh Pathirana)"
+2024-11-15,32687,4,1,They contested seats in the Kali district under the new Janatha Vimukthi Party.,2,wrong,"they ran for the New Democratic Front in Galle, not 'Janatha Vimukthi Party' in 'Kali'"
+2024-11-15,32687,4,2,The new Janatha Party did not provide any seat in Kali district to either candidate.,2,wrong,garbled party name; the front won no seat in Galle
+2025-08-22,42990,0,0,Former President Ranil Wickremesinghe has been summoned to appear at the Criminal Investigation Department (CID).,1 2 5,ok,
+2025-08-22,42990,0,1,"The summons relates to his visit to London to attend a graduation ceremony for his wife, Professor Maithree Wickremesinghe, during his presidency.",1 2 3 4,ok,
+2025-08-22,42990,0,2,The investigation involves allegations of misusing state funds for a private trip.,3 4,ok,
+2025-08-22,42990,0,3,He is to be presented before Colombo Fort Magistrate shortly.,4,ok,
+2025-08-22,43028,1,0,MP Rauff Hakeem criticized a YouTuber for prematurely announcing former President Ranil Wickremesinghe’s arrest.,1 3,ok,
+2025-08-22,43028,1,1,The arrest was confirmed by CID officers after a recorded statement.,1,ok,
+2025-08-22,43028,1,2,The opposition leader Sajith Premadasa questioned how a YouTuber could have known about the arrest in advance.,4,ok,
+2025-08-22,42991,2,0,A suspect died during a shootout with STF in Sooriyawewa.,1 2 4,ok,
+2025-08-22,42991,2,1,"Two suspects were present; one fled, the other was fatally injured.",1 2,ok,
+2025-08-22,42991,2,2,STF personnel were injured and hospitalized; one suspect hurled a grenade.,1 2 4,minor,"one STF officer was injured, not several"
+2025-08-22,43027,3,0,Public Security Minister Ananda Wijepala stated everyone is equal before the law regardless of title or position.,1 2 3 4,ok,
+2025-08-22,43027,3,1,Former President Ranil Wickremesinghe was arrested over alleged misuse of state funds.,4,ok,
+2025-08-22,43027,3,2,He was remanded in custody by Colombo Magistrate’s Court and the case is now before the judge.,4,ok,
+2025-08-22,42879,4,0,"Evening thundershowers likely in Northern, North-Central, Central, Uva and Eastern provinces.",1 2,ok,
+2025-08-22,42879,4,1,Heavy rainfall of about 50 mm possible in some areas.,1,ok,
+2025-08-22,42879,4,2,Public advised to take precautions against strong winds and lightning.,1,ok,
+2025-11-28,54861,0,0,Heavy rainfall has caused high water levels in the Kelani River basin.,1 4,ok,
+2025-11-28,54861,0,1,The Water Resources Department warns of worsening flood conditions in low-lying areas.,1 3,minor,it is the Irrigation Department
+2025-11-28,54861,0,2,A red flood alert has been issued for areas around the Kelani River.,2 4,ok,
+2025-11-28,54861,0,3,Severe flooding is expected in these regions within the next 48 hours.,2 4,ok,
+2025-11-28,55367,1,0,All police officers' leave orders suspended due to weather disruptions,1 3,ok,
+2025-11-28,55367,1,1,Police leave suspended until November 30 due to national emergency conditions,4,ok,
+2025-11-28,55367,1,2,Police officials unable to report to stations due to weather-related issues,1,minor,sources say officers who cannot reach their station may report to the nearest one
+2025-11-28,55370,2,0,MP Islam Muttu resigns from Parliament position.,1 2 4,minor,name garbled (Ismail Muthu Mohamed)
+2025-11-28,55370,2,1,He stepped down from his role during a parliamentary session on 28.,3 4,ok,
+2025-11-28,55370,2,2,Muttu handed over his resignation letter to Parliament Chairperson Nayanaka Rohan.,4,wrong,"letter went to Secretary-General Kushani Rohanadeera, not 'Chairperson Nayanaka Rohan'"
+2025-11-28,55370,2,3,The resignation took effect from 28.,3 4,ok,
+2025-11-28,55391,3,0,"A landslide struck a house in Navalpitikam, killing three people from the same family.",1 3 4,minor,place name garbled (Nawalapitiya)
+2025-11-28,55391,3,1,The incident occurred during heavy rainfall in the area.,1 3 4,ok,
+2025-11-28,55391,3,2,The bodies were taken to the Navalpitikam district hospital.,2,minor,Nawalapitiya divisional hospital
+2025-11-28,55391,3,3,"This is the fifth death in the region due to weather-related incidents, affecting about 50 families.",4,wrong,"source says 5 deaths so far in the area, not 'the fifth death'"
+2025-11-28,55175,4,0,A tropical storm has formed near southern Sri Lanka.,1 2,minor,storm centre was off the east coast (south of Trincomalee)
+2025-11-28,55175,4,1,"The storm is centered around 8.1°N, 81.2°E and moving northwest.",1,ok,
+2025-11-28,55175,4,2,"It may cause heavy rainfall, strong winds, and flooding across the country.",2,ok,
+2025-11-28,55175,4,3,Sri Lanka's government is preparing for possible damage and considering international aid.,3,ok,

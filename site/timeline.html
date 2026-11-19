@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Story Timeline</title>
+<meta name="description" content="Searchable timeline of Sri Lankan news stories matched across Sinhala, Tamil and English outlets.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600;700&family=Noto+Sans+Sinhala:wght@400;600&family=Noto+Sans+Tamil:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <a class="brand" href="./">Lanka News <span>Lens</span></a>
+  <nav><a href="./">Daily briefs</a><a href="timeline.html" aria-current="page">Story timeline</a><a href="https://github.com/Nipuna-Lakruwan/lanka-news-lens">Code &amp; method</a></nav>
+</div></header>
+<main class="wrap">
+  <h1>Story timeline</h1>
+  <p class="lede" id="lede">Stories reported by at least two outlets, matched across languages by meaning rather than shared words. Search in English, Sinhala or Tamil.</p>
+  <div class="row">
+    <input type="search" id="q" placeholder="Search headlines, e.g. IMF, ගංවතුර, தேர்தல்" aria-label="Search stories">
+  </div>
+  <div class="row">
+    <select id="month" aria-label="Month"></select>
+    <select id="topic" aria-label="Topic"><option value="">All topics</option></select>
+    <select id="langs" aria-label="Languages">
+      <option value="">Any languages</option><option value="multi">2+ languages</option><option value="tri">All 3 languages</option>
+    </select>
+  </div>
+  <div class="meta" id="count"></div>
+  <div id="list"></div>
+  <button id="more" hidden>Show more</button>
+</main>
+<footer><div class="wrap">Data: <a href="https://github.com/nuuuwan/lk_news">nuuuwan/lk_news</a> by Nuwan Senaratna (MIT). Topics come from a fine-tuned classifier and are sometimes wrong. Headlines and links belong to the original publishers.</div></footer>
+<script src="assets/timeline.js"></script>
+</body>
+</html>

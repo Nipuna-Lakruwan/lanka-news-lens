@@ -1,0 +1,641 @@
+{
+ "date": "2025-08-22",
+ "stories": [
+  {
+   "story_id": 42990,
+   "n_articles": 46,
+   "n_outlets": 7,
+   "langs": [
+    "en",
+    "si",
+    "ta"
+   ],
+   "sources": [
+    {
+     "doc_id": "2025-08-22-adaderanalk-6fdbc6f9",
+     "title": "Ex-President Ranil summoned to CID today",
+     "lang": "en",
+     "outlet": "Ada Derana",
+     "url": "https://www.adaderana.lk/news/111730/ex-president-ranil-summoned-to-fcid-today"
+    },
+    {
+     "doc_id": "2025-08-22-adaderanasinhalalk-01fc184e",
+     "title": "රනිල්ට අද CIDයෙන් කැඳවීමක්",
+     "lang": "si",
+     "outlet": "Ada Derana (Sinhala)",
+     "url": "http://sinhala.adaderana.lk/news/213640"
+    },
+    {
+     "doc_id": "2025-08-22-virakesarilk-ef6d05f4",
+     "title": "முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க கைது",
+     "lang": "ta",
+     "outlet": "Virakesari",
+     "url": "https://www.virakesari.lk/article/223100"
+    },
+    {
+     "doc_id": "2025-08-22-economynextcom-d576ec6f",
+     "title": "Sri Lanka ex-President Ranil Wickremesinghe arrested",
+     "lang": "en",
+     "outlet": "EconomyNext",
+     "url": "https://economynext.com/sri-lanka-ex-president-ranil-wickremesinghe-arrested-237820/"
+    },
+    {
+     "doc_id": "2025-08-22-adalk-add2c22f",
+     "title": "හිටපු ජනපති රනිල් CID අත්අඩංගුවට",
+     "lang": "si",
+     "outlet": "Ada",
+     "url": "https://www.ada.lk/breaking_news/හිටපු-ජනපති-රනිල්-CID-අත්අඩංගුවට/11-418016"
+    }
+   ],
+   "en": {
+    "headline": "Ex-President Ranil summoned by CID",
+    "sentences": [
+     {
+      "text": "Former President Ranil Wickremesinghe has been summoned to appear at the Criminal Investigation Department (CID).",
+      "cites": [
+       1,
+       2,
+       5
+      ]
+     },
+     {
+      "text": "The summons relates to his visit to London to attend a graduation ceremony for his wife, Professor Maithree Wickremesinghe, during his presidency.",
+      "cites": [
+       1,
+       2,
+       3,
+       4
+      ]
+     },
+     {
+      "text": "The investigation involves allegations of misusing state funds for a private trip.",
+      "cites": [
+       3,
+       4
+      ]
+     },
+     {
+      "text": "He is to be presented before Colombo Fort Magistrate shortly.",
+      "cites": [
+       4
+      ]
+     }
+    ]
+   },
+   "audit": {
+    "raw": "HEADLINE: Ex-President Ranil summoned by CID [1][2][5]  \n\nFormer President Ranil Wickremesinghe has been summoned to appear at the Criminal Investigation Department (CID) [1][2][5].  \n\nThe summons relates to his visit to London to attend a graduation ceremony for his wife, Professor Maithree Wickremesinghe, during his presidency [1][2][3][4].  \n\nThe investigation involves allegations of misusing state funds for a private trip [3][4].  \n\nHe is to be presented before Colombo Fort Magistrate shortly [4].",
+    "rejected_sentences": 0,
+    "attempts": 1
+   },
+   "si": {
+    "headline": "හිටපු ජනාධිපති රනිල් CID විසින් කැඳවා",
+    "sentences": [
+     {
+      "text": "හිටපු ජනාධිපති රනිල් වික් රමසිංහ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කැඳවා තිබෙනවා.",
+      "cites": [
+       1,
+       2,
+       5
+      ]
+     },
+     {
+      "text": "මෙම කැඳවීම ලන්ඩනයට පැමිණ ඔහුගේ බිරිඳ වන මහාචාර්ය මෛත් රී වික් රමසිංහගේ උපාධි ප් රදාන උත්සවයට සහභාගී වීම ගැනයි.",
+      "cites": [
+       1,
+       2,
+       3,
+       4
+      ]
+     },
+     {
+      "text": "පෞද්ගලික සංචාරයක් සඳහා රාජ් ය අරමුදල් අපයෝජනය කිරීමේ චෝදනා සම්බන්ධයි.",
+      "cites": [
+       3,
+       4
+      ]
+     },
+     {
+      "text": "ඔහු ළඟදීම කොළඹ බලකොටුව අධිකරණයට ඉදිරිපත් කිරීමට නියමිතයි.",
+      "cites": [
+       4
+      ]
+     }
+    ]
+   },
+   "ta": {
+    "headline": "முன்னாள் ஜனாதிபதி ரானில் CID ஆல் அழைக்கப்பட்டார்",
+    "sentences": [
+     {
+      "text": "முன்னாள் ஜனாதிபதி ரணில் விக்ரமேசிங் குற்றவியல் விசாரணைத் துறையில் (சிஐடி) ஆஜராக அழைக்கப்பட்டார்.",
+      "cites": [
+       1,
+       2,
+       5
+      ]
+     },
+     {
+      "text": "அவரது மனைவி பேராசிரியர் மைத்திரி விக்ரெம்சிங்ஜேவின் பட்டமளிப்பு விழாவில் கலந்து கொள்ள லண்டனுக்கு அவர் மேற்கொண்ட விஜயத்துடன் இந்த அழைப்பு தொடர்புடையது.",
+      "cites": [
+       1,
+       2,
+       3,
+       4
+      ]
+     },
+     {
+      "text": "தனியார் பயணத்திற்காக அரச நிதிகளை தவறாகப் பயன்படுத்தியதாக குற்றச்சாட்டுகள் இந்த விசாரணையில் அடங்கும்.",
+      "cites": [
+       3,
+       4
+      ]
+     },
+     {
+      "text": "அவர் விரைவில் கொழும்பு கோட்டை நீதிபதியிடம் ஒப்படைக்கப்படுவார்.",
+      "cites": [
+       4
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "story_id": 43028,
+   "n_articles": 22,
+   "n_outlets": 5,
+   "langs": [
+    "en",
+    "si",
+    "ta"
+   ],
+   "sources": [
+    {
+     "doc_id": "2025-08-22-adaderanalk-64b2c3b6",
+     "title": "At least minimum courtesies should be extended to a former president – Hakeem",
+     "lang": "en",
+     "outlet": "Ada Derana",
+     "url": "https://www.adaderana.lk/news/111747/at-least-minimum-courtesies-should-be-extended-to-a-former-president-hakeem"
+    },
+    {
+     "doc_id": "2025-08-22-adaderanasinhalalk-c5a67a50",
+     "title": "සුදත්තගේ යූටියුබ් ප්‍රකාශයට විමර්ශනයක් ඉල්ලා එජාපයෙන් CIDයට පැමිණිල්ලක්",
+     "lang": "si",
+     "outlet": "Ada Derana (Sinhala)",
+     "url": "http://sinhala.adaderana.lk/news/213673"
+    },
+    {
+     "doc_id": "2025-08-22-tamilmirrorlk-4e297b7c",
+     "title": "”ரணில் கைது: யூடியூபருக்கு எப்படி தெரியும் ”",
+     "lang": "ta",
+     "outlet": "Tamil Mirror",
+     "url": "https://www.tamilmirror.lk/செய்திகள்/ரணில்-கைது-யூடியூபருக்கு-எப்படி-தெரியும்/175-363283"
+    },
+    {
+     "doc_id": "2025-08-22-virakesarilk-4a0926fd",
+     "title": "ரணிலின் கைது குறித்து சஜித் கேள்வி?",
+     "lang": "ta",
+     "outlet": "Virakesari",
+     "url": "https://www.virakesari.lk/article/223138"
+    }
+   ],
+   "en": {
+    "headline": "Former President arrest leaked by YouTuber",
+    "sentences": [
+     {
+      "text": "MP Rauff Hakeem criticized a YouTuber for prematurely announcing former President Ranil Wickremesinghe’s arrest.",
+      "cites": [
+       1,
+       3
+      ]
+     },
+     {
+      "text": "The arrest was confirmed by CID officers after a recorded statement.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "The opposition leader Sajith Premadasa questioned how a YouTuber could have known about the arrest in advance.",
+      "cites": [
+       4
+      ]
+     }
+    ]
+   },
+   "audit": {
+    "raw": "HEADLINE: Former President arrest leaked by YouTuber [1][2][3][4]  \nMP Rauff Hakeem criticized a YouTuber for prematurely announcing former President Ranil Wickremesinghe’s arrest [1][3].  \nThe arrest was confirmed by CID officers after a recorded statement [1].  \nThe opposition leader Sajith Premadasa questioned how a YouTuber could have known about the arrest in advance [4].",
+    "rejected_sentences": 0,
+    "attempts": 1
+   },
+   "si": {
+    "headline": "හිටපු ජනපති අත්අඩංගුවට ගැනීම යූ ටියුබර් විසින් අනාවරණය",
+    "sentences": [
+     {
+      "text": "හිටපු ජනාධිපති රනිල් වික් රමසිංහ අත්අඩංගුවට ගැනීමක් කල්තියා ප් රකාශයට පත් කිරීම සම්බන්ධයෙන් යූ ටියුබර්වරයෙකු විවේචනය කළ පාර්ලිමේන්තු මන්ත් රී රවුෆ් හකීම්.",
+      "cites": [
+       1,
+       3
+      ]
+     },
+     {
+      "text": "අත්අඩංගුවට ගැනීම වාර්තාගත ප් රකාශයකින් පසුව CID නිලධාරීන් විසින් තහවුරු කරන ලදී.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "විපක්ෂ නායක සජිත් ප් රේමදාස ප් රශ්න කළේ යූ ටියුබර්වරයකුට අත්අඩංගුවට ගැනීම ගැන කලින් දැනගත හැක්කේ කෙසේද යන්නයි.",
+      "cites": [
+       4
+      ]
+     }
+    ]
+   },
+   "ta": {
+    "headline": "முன்னாள் ஜனாதிபதியை கைது செய்த யூடியூபர்",
+    "sentences": [
+     {
+      "text": "முன்னாள் ஜனாதிபதி ரணில் விக்ரமேசிங் கைது செய்யப்படுவதை முன்கூட்டியே அறிவித்த யூடியூபர் ஒருவரை எம். பி. ரவுப் ஹக்கீம் விமர்சித்தார்.",
+      "cites": [
+       1,
+       3
+      ]
+     },
+     {
+      "text": "சிஐடி அதிகாரிகளால் பதிவு செய்யப்பட்ட அறிக்கையின் பின்னர் கைது உறுதி செய்யப்பட்டது.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசா, யூடியூபர் ஒருவர் கைது குறித்து எவ்வாறு முன்கூட்டியே அறிந்து கொண்டார் என்று கேள்வி எழுப்பினார்.",
+      "cites": [
+       4
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "story_id": 42991,
+   "n_articles": 6,
+   "n_outlets": 5,
+   "langs": [
+    "en",
+    "si",
+    "ta"
+   ],
+   "sources": [
+    {
+     "doc_id": "2025-08-22-adaderanalk-2ae4f370",
+     "title": "Suspect killed in shootout with STF at Sooriyawewa",
+     "lang": "en",
+     "outlet": "Ada Derana",
+     "url": "https://www.adaderana.lk/news/111729/suspect-killed-in-shootout-with-stf-at-sooriyawewa"
+    },
+    {
+     "doc_id": "2025-08-22-adaderanasinhalalk-b2145777",
+     "title": "සූරියවැවදී STF සමග වෙඩි හුවමාරුවකින් සැකකරුවෙක් මරුට",
+     "lang": "si",
+     "outlet": "Ada Derana (Sinhala)",
+     "url": "http://sinhala.adaderana.lk/news/213641"
+    },
+    {
+     "doc_id": "2025-08-22-tamilmirrorlk-0eead739",
+     "title": "துப்பாக்கிதாரி சுட்டுப் படுகொலை",
+     "lang": "ta",
+     "outlet": "Tamil Mirror",
+     "url": "https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிதாரி-சுட்டுப்-படுகொலை/175-363263"
+    },
+    {
+     "doc_id": "2025-08-22-adalk-1fad0ef1",
+     "title": "STF නිලධාරීන් සමඟ ඇති වූ වෙඩි හුවමාරුවකින් සැකකරුවෙකු මරුට",
+     "lang": "si",
+     "outlet": "Ada",
+     "url": "https://www.ada.lk/breaking_news/STF-නිලධාරීන්-සමඟ-ඇති-වූ-වෙඩි-හුවමාරුවකින්-සැකකරුවෙකු-මරුට/11-418011"
+    }
+   ],
+   "en": {
+    "headline": "Suspect killed in Sooriyawewa STF shootout",
+    "sentences": [
+     {
+      "text": "A suspect died during a shootout with STF in Sooriyawewa.",
+      "cites": [
+       1,
+       2,
+       4
+      ]
+     },
+     {
+      "text": "Two suspects were present; one fled, the other was fatally injured.",
+      "cites": [
+       1,
+       2
+      ]
+     },
+     {
+      "text": "STF personnel were injured and hospitalized; one suspect hurled a grenade.",
+      "cites": [
+       1,
+       2,
+       4
+      ]
+     }
+    ]
+   },
+   "audit": {
+    "raw": "HEADLINE: Suspect killed in Sooriyawewa STF shootout [1][2][3][4]  \nA suspect died during a shootout with STF in Sooriyawewa [1][2][4].  \nTwo suspects were present; one fled, the other was fatally injured [1][2].  \nSTF personnel were injured and hospitalized; one suspect hurled a grenade [1][2][4].",
+    "rejected_sentences": 0,
+    "attempts": 1
+   },
+   "si": {
+    "headline": "සෝරියාවෙ ස්ටීඑෆ් වෙඩි තැබීමෙන් සැකකරු ඝාතනය කෙරේ",
+    "sentences": [
+     {
+      "text": "සැකකරුවෙක් Sooriyawewa හි STF සමග වෙඩි තැබීමකදී මිය ගියා.",
+      "cites": [
+       1,
+       2,
+       4
+      ]
+     },
+     {
+      "text": "සැකකරුවන් දෙදෙනෙක් හිටියා; එක්කෙනෙක් පැනලා ගියා, අනෙකාට මාරාන්තික තුවාල වුණා.",
+      "cites": [
+       1,
+       2
+      ]
+     },
+     {
+      "text": "STF කාර්ය මණ්ඩලය තුවාල ලබා රෝහල්ගත කර ඇත; එක් සැකකරුවෙකු ග් රැනට් එකක් විසි කළේය.",
+      "cites": [
+       1,
+       2,
+       4
+      ]
+     }
+    ]
+   },
+   "ta": {
+    "headline": "சூரியாவேவா எஸ்டிஎஃப் துப்பாக்கிச் சூட்டில் சந்தேகநபர் பலி",
+    "sentences": [
+     {
+      "text": "சோரியாவேவாவில் ஒரு சந்தேகநபர் STF உடன் துப்பாக்கிச் சூட்டில் உயிரிழந்தார்.",
+      "cites": [
+       1,
+       2,
+       4
+      ]
+     },
+     {
+      "text": "இரண்டு சந்தேக நபர்கள் இருந்தனர்; ஒருவர் தப்பி ஓடிவிட்டார், மற்றவர் பலத்த காயமடைந்தார்.",
+      "cites": [
+       1,
+       2
+      ]
+     },
+     {
+      "text": "STF பணியாளர்கள் காயமடைந்து மருத்துவமனையில் அனுமதிக்கப்பட்டனர்; ஒரு சந்தேகநபர் குண்டு வீசினார்.",
+      "cites": [
+       1,
+       2,
+       4
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "story_id": 43027,
+   "n_articles": 4,
+   "n_outlets": 4,
+   "langs": [
+    "en",
+    "si",
+    "ta"
+   ],
+   "sources": [
+    {
+     "doc_id": "2025-08-22-adaderanalk-bb0fffb6",
+     "title": "‘Positions don’t matter...everyone stands equal before law’ - Public Security Minister",
+     "lang": "en",
+     "outlet": "Ada Derana",
+     "url": "https://www.adaderana.lk/news/111744/positions-dont-mattereveryone-stands-equal-before-law-public-security-minister"
+    },
+    {
+     "doc_id": "2025-08-22-adaderanasinhalalk-160fc11b",
+     "title": "තරාතිරම වැදගත් නෑ...නීතිය ඉදිරියේ කවුරුත් පොදුයි -මහජන ආරක්ෂක අමාත්‍ය",
+     "lang": "si",
+     "outlet": "Ada Derana (Sinhala)",
+     "url": "http://sinhala.adaderana.lk/news/213656"
+    },
+    {
+     "doc_id": "2025-08-22-tamilmirrorlk-33429570",
+     "title": "”அந்தஸ்தைப் பொருட்படுத்தாமல் சட்டம் அமல் ”",
+     "lang": "ta",
+     "outlet": "Tamil Mirror",
+     "url": "https://www.tamilmirror.lk/செய்திகள்/அந்தஸ்தைப்-பொருட்படுத்தாமல்-சட்டம்-அமல்/175-363281"
+    },
+    {
+     "doc_id": "2025-08-22-islandlk-7587a9a2",
+     "title": "It’s the rule of law, stupid",
+     "lang": "en",
+     "outlet": "The Island",
+     "url": "http://island.lk/its-the-rule-of-law-stupid/"
+    }
+   ],
+   "en": {
+    "headline": "Sri Lanka’s law applies equally to all",
+    "sentences": [
+     {
+      "text": "Public Security Minister Ananda Wijepala stated everyone is equal before the law regardless of title or position.",
+      "cites": [
+       1,
+       2,
+       3,
+       4
+      ]
+     },
+     {
+      "text": "Former President Ranil Wickremesinghe was arrested over alleged misuse of state funds.",
+      "cites": [
+       4
+      ]
+     },
+     {
+      "text": "He was remanded in custody by Colombo Magistrate’s Court and the case is now before the judge.",
+      "cites": [
+       4
+      ]
+     }
+    ]
+   },
+   "audit": {
+    "raw": "HEADLINE: Sri Lanka’s law applies equally to all [1][2][3][4]  \nPublic Security Minister Ananda Wijepala stated everyone is equal before the law regardless of title or position [1][2][3][4].  \nFormer President Ranil Wickremesinghe was arrested over alleged misuse of state funds [4].  \nHe was remanded in custody by Colombo Magistrate’s Court and the case is now before the judge [4].",
+    "rejected_sentences": 0,
+    "attempts": 1
+   },
+   "si": {
+    "headline": "ශ් රී ලංකා නීතිය සියලු දෙනාටම සමානව අදාළයි",
+    "sentences": [
+     {
+      "text": "මහජන ආරක් ෂක අමාත් ය ආනන්ද විජේපාල මහතා ප් රකාශ කළේ උසස් තනතුරක් හෝ තනතුරක් නොතකා නීතිය ඉදිරියේ සෑම කෙනෙකුම සමාන බවයි.",
+      "cites": [
+       1,
+       2,
+       3,
+       4
+      ]
+     },
+     {
+      "text": "හිටපු ජනාධිපති රනිල් වික් රමසිංහ රජයේ අරමුදල් අනිසි ලෙස භාවිතා කිරීම සම්බන්ධයෙන් අත්අඩංගුවට ගෙන තිබෙනවා.",
+      "cites": [
+       4
+      ]
+     },
+     {
+      "text": "ඔහු කොළඹ මහේස්ත් රාත් අධිකරණය විසින් රක්ෂිත බන්ධනාගාරගත කර ඇති අතර නඩුව දැන් විනිසුරුවරයා ඉදිරියේ පවතී.",
+      "cites": [
+       4
+      ]
+     }
+    ]
+   },
+   "ta": {
+    "headline": "இலங்கை சட்டம் அனைவருக்கும் சமமாக பொருந்தும்",
+    "sentences": [
+     {
+      "text": "பொதுப் பாதுகாப்பு அமைச்சர் ஆனந்தா வைஜேபாலா, பதவி அல்லது பதவி எதுவாக இருந்தாலும் சட்டத்தின் முன் அனைவரும் சமம் என்று கூறினார்.",
+      "cites": [
+       1,
+       2,
+       3,
+       4
+      ]
+     },
+     {
+      "text": "முன்னாள் ஜனாதிபதி ரணில் விக்ரமேசிங் அரசு நிதிகளை தவறாகப் பயன்படுத்தியதாகக் கூறி கைது செய்யப்பட்டார்.",
+      "cites": [
+       4
+      ]
+     },
+     {
+      "text": "கொழும்பு மாஜிஸ்திரேட் கோர்ட்டால் அவர் காவலில் வைக்கப்பட்டு வழக்கு இப்போது நீதிபதியிடம் உள்ளது.",
+      "cites": [
+       4
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "story_id": 42879,
+   "n_articles": 19,
+   "n_outlets": 4,
+   "langs": [
+    "en",
+    "si",
+    "ta"
+   ],
+   "sources": [
+    {
+     "doc_id": "2025-08-22-adaderanalk-6a525e07",
+     "title": "Evening thundershowers expected in several provinces today",
+     "lang": "en",
+     "outlet": "Ada Derana",
+     "url": "https://www.adaderana.lk/news/111727/evening-thundershowers-expected-in-several-provinces-today"
+    },
+    {
+     "doc_id": "2025-08-22-adaderanasinhalalk-42a871dc",
+     "title": "ඉදිරි දින කිහිපයේ කාලගුණයේ විශේෂ වෙනසක්",
+     "lang": "si",
+     "outlet": "Ada Derana (Sinhala)",
+     "url": "http://sinhala.adaderana.lk/news/213636"
+    },
+    {
+     "doc_id": "2025-08-22-tamilmirrorlk-d0f2712e",
+     "title": "இன்று எச்சரிக்கை மட்டத்தில் வெப்பநிலை",
+     "lang": "ta",
+     "outlet": "Tamil Mirror",
+     "url": "https://www.tamilmirror.lk/செய்திகள்/இன்று-எச்சரிக்கை-மட்டத்தில்-வெப்பநிலை/175-363257"
+    }
+   ],
+   "en": {
+    "headline": "Thundershowers expected in several provinces",
+    "sentences": [
+     {
+      "text": "Evening thundershowers likely in Northern, North-Central, Central, Uva and Eastern provinces.",
+      "cites": [
+       1,
+       2
+      ]
+     },
+     {
+      "text": "Heavy rainfall of about 50 mm possible in some areas.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "Public advised to take precautions against strong winds and lightning.",
+      "cites": [
+       1
+      ]
+     }
+    ]
+   },
+   "audit": {
+    "raw": "HEADLINE: Thundershowers expected in several provinces [1][2]  \n\nEvening thundershowers likely in Northern, North-Central, Central, Uva and Eastern provinces [1][2].  \nHeavy rainfall of about 50 mm possible in some areas [1].  \nPublic advised to take precautions against strong winds and lightning [1].",
+    "rejected_sentences": 0,
+    "attempts": 1
+   },
+   "si": {
+    "headline": "පළාත් කිහිපයක ගිගුරුම් සහිත වැසි අපේක්ෂා කෙරේ",
+    "sentences": [
+     {
+      "text": "උතුරු, උතුරු-මධ් යම, මධ් යම, උවා සහ නැගෙනහිර පළාත්වල රාත් රී ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.",
+      "cites": [
+       1,
+       2
+      ]
+     },
+     {
+      "text": "සමහර ප් රදේශවල මිලිමීටර් 50 ක් පමණ වැසි ඇතිවිය හැකියි.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "බලවත් සුළං සහ අකුණු වලට එරෙහිව පූර්වාරක්ෂාවන් ගන්නා ලෙස මහජනතාවට උපදෙස් දෙනු ලැබුවා.",
+      "cites": [
+       1
+      ]
+     }
+    ]
+   },
+   "ta": {
+    "headline": "பல மாகாணங்களில் இடி மின்னல்",
+    "sentences": [
+     {
+      "text": "வடக்கு, வட-மத்திய, மத்திய, உவா மற்றும் கிழக்கு மாகாணங்களில் மாலை மின்னல் பொழிவுகள் நிகழக்கூடும்.",
+      "cites": [
+       1,
+       2
+      ]
+     },
+     {
+      "text": "சில பகுதிகளில் சுமார் 50 மிமீ மழை பெய்யலாம்.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "வலுவான காற்று மற்றும் மின்னலுக்கு எதிராக முன்னெச்சரிக்கை நடவடிக்கைகளை எடுக்க பொதுமக்கள் அறிவுறுத்தப்படுகிறார்கள்.",
+      "cites": [
+       1
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

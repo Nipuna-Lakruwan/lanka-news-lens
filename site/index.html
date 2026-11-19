@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lanka News Lens</title>
+<meta name="description" content="Cited trilingual daily briefs of Sri Lankan news, built from Sinhala, Tamil and English outlets.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600;700&family=Noto+Sans+Sinhala:wght@400;600&family=Noto+Sans+Tamil:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <a class="brand" href="./">Lanka News <span>Lens</span></a>
+  <nav><a href="./" aria-current="page">Daily briefs</a><a href="timeline.html">Story timeline</a><a href="https://github.com/Nipuna-Lakruwan/lanka-news-lens">Code &amp; method</a></nav>
+</div></header>
+<main class="wrap">
+  <h1>Daily briefs</h1>
+  <p class="lede">The most widely covered Sri Lankan stories of a day, grouped across Sinhala, Tamil and English outlets and summarised by a small local model. Every sentence links to the articles it is based on. Machine-written: when every sentence was checked against its sources, 12 of 73 were wrong, often in names (<a href="https://github.com/Nipuna-Lakruwan/lanka-news-lens#how-faithful-are-the-briefs">audit</a>). Check the sources before relying on a sentence.</p>
+  <div class="row">
+    <label for="day">Day</label> <select id="day"></select>
+    <span class="tabs" role="group" aria-label="Brief language">
+      <button data-l="en" aria-pressed="true">English</button>
+      <button data-l="si" class="lang-si">සිංහල</button>
+      <button data-l="ta" class="lang-ta">தமிழ்</button>
+    </span>
+  </div>
+  <div id="brief"></div>
+  <p class="note">Sinhala and Tamil briefs are machine translations of the English brief, sentence by sentence, made with NLLB-200 (distilled 600M), a dedicated translation model. The English brief itself is written by a 4-billion-parameter model (qwen3 4B) from the source articles. Expect awkward phrasing and occasional mistranslated names. Each translated sentence keeps the citations of the English sentence it came from.</p>
+</main>
+<footer><div class="wrap">Data: <a href="https://github.com/nuuuwan/lk_news">nuuuwan/lk_news</a> by Nuwan Senaratna (MIT). Headlines and links belong to the original publishers.</div></footer>
+<script src="assets/briefs.js"></script>
+</body>
+</html>

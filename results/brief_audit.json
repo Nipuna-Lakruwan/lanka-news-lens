@@ -1,0 +1,29 @@
+{
+  "sentences": 73,
+  "ok": 51,
+  "minor": 10,
+  "wrong": 12,
+  "by_day": {
+    "2024-09-22": {
+      "ok": 17,
+      "wrong": 3
+    },
+    "2024-11-15": {
+      "minor": 3,
+      "wrong": 7,
+      "ok": 8
+    },
+    "2025-08-22": {
+      "ok": 15,
+      "minor": 1
+    },
+    "2025-11-28": {
+      "ok": 11,
+      "minor": 6,
+      "wrong": 2
+    }
+  },
+  "story_notes": {
+    "2025-08-22 story 0": "headline and lead say 'summoned'; later sources in the same story report the arrest, which the brief omits"
+  }
+}

@@ -1,0 +1,29 @@
+W1118 08:37:04.051000 75886 torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 3911.00it/s]
+[transformers] [1mBertForSequenceClassification LOAD REPORT[0m from: intfloat/multilingual-e5-small
+Key               | Status  | 
+------------------+---------+-
+classifier.weight | MISSING | 
+classifier.bias   | MISSING | 
+
+Notes:
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+ep 0 step 100/2522 loss 2.016 430s
+ep 0 step 200/2522 loss 1.350 847s
+ep 0 step 300/2522 loss 0.981 1242s
+ep 0 step 400/2522 loss 0.459 1618s
+ep 0 step 500/2522 loss 0.819 1938s
+ep 0 step 600/2522 loss 0.486 2306s
+ep 0 step 700/2522 loss 0.304 2666s
+ep 0 step 800/2522 loss 0.192 3034s
+ep 0 step 900/2522 loss 0.425 3571s
+ep 0 step 1000/2522 loss 0.120 4140s
+ep 0 step 1100/2522 loss 0.122 4577s
+ep 0 step 1200/2522 loss 0.279 5064s
+epoch 0 weak-val macro-F1 0.917
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:02<00:00,  2.42s/it]Writing model shards: 100%|██████████| 1/1 [00:02<00:00,  2.42s/it]
+ep 1 step 1300/2522 loss 0.093 5707s
+ep 1 step 1400/2522 loss 0.075 6224s
+ep 1 step 1500/2522 loss 0.428 6750s
+ep 1 step 1600/2522 loss 0.060 7494s
+ep 1 step 1700/2522 loss 0.587 8016s

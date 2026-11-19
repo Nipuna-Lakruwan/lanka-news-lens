@@ -1,0 +1,28 @@
+[project]
+name = "lanka-news-lens"
+version = "0.1.0"
+description = "Cross-language story clustering, topic classification and cited trilingual daily briefs for Sri Lankan news"
+authors = [
+    { name = "Nipuna Lakruwan" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.5.5",
+    "pandas>=3.1.1",
+    "pyarrow>=26.0.1",
+    "requests>=2.34.2",
+    "scikit-learn>=1.9.1",
+    "sentencepiece>=0.2.3",
+    "torch>=2.15.0",
+    "tqdm>=4.70.1",
+    "transformers>=5.23.0",
+]
+
+[build-system]
+requires = ["uv_build>=0.13.8,<0.14.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+]

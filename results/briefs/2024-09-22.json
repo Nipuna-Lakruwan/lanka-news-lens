@@ -1,0 +1,721 @@
+{
+ "date": "2024-09-22",
+ "stories": [
+  {
+   "story_id": 27182,
+   "n_articles": 6,
+   "n_outlets": 6,
+   "langs": [
+    "en",
+    "si",
+    "ta"
+   ],
+   "sources": [
+    {
+     "doc_id": "2024-09-22-economynextcom-b738ab48",
+     "title": "I handover to you with much love, the dear child called Sri Lanka: Ranil Wickremesinghe",
+     "lang": "en",
+     "outlet": "EconomyNext",
+     "url": "https://economynext.com/i-handover-to-you-with-much-love-the-dear-child-called-sri-lanka-ranil-wickremesinghe-180469/"
+    },
+    {
+     "doc_id": "2024-09-22-adalk-b4f0d56c",
+     "title": "රනිල් බලය සුමටව අනුරට භාර දෙයි",
+     "lang": "si",
+     "outlet": "Ada",
+     "url": "https://www.ada.lk/breaking_news/රනිල්-බලය-සුමටව-අනුරට-භාර-දෙයි/11-412074"
+    },
+    {
+     "doc_id": "2024-09-22-virakesarilk-a780b743",
+     "title": "“நான் அன்பு வைத்துள்ள இலங்கை எனும் பாசம் மிகுந்த குழந்தையினை உங்களிடம் ஒப்படைக்கிறேன்.” புதிதாக தெரிவான ஜனாதிபதி அநுரவுக்கு ஜனாதிபதி ரணில் உருக்கம்!",
+     "lang": "ta",
+     "outlet": "Virakesari",
+     "url": "https://www.virakesari.lk/article/194553"
+    },
+    {
+     "doc_id": "2024-09-22-adaderanalk-bd47a76c",
+     "title": "“I handover to you with much love, the dear child called Sri Lanka” – Ranil to president-elect Anura",
+     "lang": "en",
+     "outlet": "Ada Derana",
+     "url": "https://www.adaderana.lk/news/102198/i-handover-to-you-with-much-love-the-dear-child-called-sri-lanka-ranil-to-president-elect-anura"
+    },
+    {
+     "doc_id": "2024-09-22-adaderanasinhalalk-85b0c2ae",
+     "title": "ශ්‍රී ලංකාව නමැති ආදරණීය දරුවා මම ඔබට මහත් සෙනෙහසින් භාර දෙමි - රනිල් අනුරට කියයි",
+     "lang": "si",
+     "outlet": "Ada Derana (Sinhala)",
+     "url": "http://sinhala.adaderana.lk/news/201447"
+    },
+    {
+     "doc_id": "2024-09-22-tamilmirrorlk-71b70a41",
+     "title": "‘பாசம் மிகுந்த குழந்தையினை உங்களிடம் ஒப்படைக்கிறேன்”",
+     "lang": "ta",
+     "outlet": "Tamil Mirror",
+     "url": "https://www.tamilmirror.lk/செய்திகள்/பாசம்-மிகுந்த-குழந்தையினை-உங்களிடம்-ஒப்படைக்கிறேன்/175-344259"
+    }
+   ],
+   "en": {
+    "headline": "Ranil hands over Sri Lanka to Anura Dissanayake",
+    "sentences": [
+     {
+      "text": "Ranil Wickremesinghe has transferred leadership of Sri Lanka to President Anura Dissanayake.",
+      "cites": [
+       1,
+       2,
+       4,
+       5,
+       6
+      ]
+     },
+     {
+      "text": "He expressed gratitude to the people for their mandate in the 21st presidential election.",
+      "cites": [
+       1,
+       4,
+       6
+      ]
+     },
+     {
+      "text": "He described Sri Lanka as a beloved child entrusted to the new president.",
+      "cites": [
+       1,
+       3,
+       6
+      ]
+     },
+     {
+      "text": "The handover occurred following the presidential election held on the 21st.",
+      "cites": [
+       2,
+       3,
+       4,
+       5,
+       6
+      ]
+     }
+    ]
+   },
+   "audit": {
+    "raw": "HEADLINE: Ranil hands over Sri Lanka to Anura Dissanayake [1][2][3][4][5][6]  \nRanil Wickremesinghe has transferred leadership of Sri Lanka to President Anura Dissanayake [1][2][4][5][6].  \nHe expressed gratitude to the people for their mandate in the 21st presidential election [1][4][6].  \nHe described Sri Lanka as a beloved child entrusted to the new president [1][3][6].  \nThe handover occurred following the presidential election held on the 21st [2][3][4][5][6].",
+    "rejected_sentences": 0,
+    "attempts": 1
+   },
+   "si": {
+    "headline": "රනිල් ශ් රී ලංකාව අනුරා දිසානායකට භාර දෙනවා",
+    "sentences": [
+     {
+      "text": "රනිල් වික් රමසිංහ ශ් රී ලංකාවේ නායකත්වය ජනාධිපති අනුර දිසානායකට මාරු කළා.",
+      "cites": [
+       1,
+       2,
+       4,
+       5,
+       6
+      ]
+     },
+     {
+      "text": "21 වැනි ජනාධිපතිවරණයේදී ජනතාවට ලබාදුන් බලය ගැන ඔහු කෘතඥතාව පළ කළේය.",
+      "cites": [
+       1,
+       4,
+       6
+      ]
+     },
+     {
+      "text": "ඔහු ශ් රී ලංකාව නව ජනාධිපතිවරයාට භාර දී ඇති ආදරණීය දරුවෙකු ලෙස විස්තර කළේය.",
+      "cites": [
+       1,
+       3,
+       6
+      ]
+     },
+     {
+      "text": "21 වැනිදා පැවති ජනාධිපතිවරණයෙන් පසු මෙම භාරදීම සිදු විය.",
+      "cites": [
+       2,
+       3,
+       4,
+       5,
+       6
+      ]
+     }
+    ]
+   },
+   "ta": {
+    "headline": "ரானில் இலங்கையை அனுரா டிசனாயக்கிடம் ஒப்படைக்கிறார்",
+    "sentences": [
+     {
+      "text": "இலங்கையின் தலைமையை ரணில் விக்ரமேசிங்கே அதிபர் அனுரா டிசனாயக்கிடம் ஒப்படைத்துள்ளார்.",
+      "cites": [
+       1,
+       2,
+       4,
+       5,
+       6
+      ]
+     },
+     {
+      "text": "21-வது ஜனாதிபதித் தேர்தலில் மக்கள் அளித்த பதவிக்கு அவர் நன்றி தெரிவித்தார்.",
+      "cites": [
+       1,
+       4,
+       6
+      ]
+     },
+     {
+      "text": "இலங்கையை புதிய ஜனாதிபதியிடம் ஒப்படைக்கப்பட்ட அன்பான குழந்தை என்று அவர் விவரித்தார்.",
+      "cites": [
+       1,
+       3,
+       6
+      ]
+     },
+     {
+      "text": "21ஆம் திகதி நடைபெற்ற ஜனாதிபதித் தேர்தலுக்குப் பிறகு இந்த ஒப்படைப்பு நடைபெற்றது.",
+      "cites": [
+       2,
+       3,
+       4,
+       5,
+       6
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "story_id": 27106,
+   "n_articles": 71,
+   "n_outlets": 5,
+   "langs": [
+    "en",
+    "si",
+    "ta"
+   ],
+   "sources": [
+    {
+     "doc_id": "2024-09-22-adaderanalk-09699f63",
+     "title": "2024 Presidential Election: Polonnaruwa District postal vote results released",
+     "lang": "en",
+     "outlet": "Ada Derana",
+     "url": "https://www.adaderana.lk/news/102134/2024-presidential-election-polonnaruwa-district-postal-vote-results-released"
+    },
+    {
+     "doc_id": "2024-09-22-adaderanasinhalalk-3b8ef6a6",
+     "title": "පොළොන්නරුව නිල තැපැල් ඡන්ද ප්‍රතිඵලය",
+     "lang": "si",
+     "outlet": "Ada Derana (Sinhala)",
+     "url": "http://sinhala.adaderana.lk/news/201285"
+    },
+    {
+     "doc_id": "2024-09-22-tamilmirrorlk-9d8025a6",
+     "title": "இதுவரை 10 மாவட்டங்களில் அனுர வெற்றி",
+     "lang": "ta",
+     "outlet": "Tamil Mirror",
+     "url": "https://www.tamilmirror.lk/செய்திகள்/இதுவரை-10-மாவட்டங்களில்-அனுர-வெற்றி/175-344127"
+    },
+    {
+     "doc_id": "2024-09-22-virakesarilk-736eba8f",
+     "title": "மாத்தறை மாவட்டம் , \"கம்புருபிட்டிய\" தேர்தல் தொகுதி வாக்கு முடிவுகள்",
+     "lang": "ta",
+     "outlet": "Virakesari",
+     "url": "https://www.virakesari.lk/article/194399"
+    }
+   ],
+   "en": {
+    "headline": "Polonnaruwa postal vote results released",
+    "sentences": [
+     {
+      "text": "Anura Kumara Dissanayake received 11,768 postal votes in Polonnaruwa.",
+      "cites": [
+       1,
+       2
+      ]
+     },
+     {
+      "text": "Sajith Premadasa received 4,120 votes in the district.",
+      "cites": [
+       1,
+       2
+      ]
+     },
+     {
+      "text": "Ranil Wickremesinghe received 2,762 postal votes in Polonnaruwa.",
+      "cites": [
+       1,
+       2
+      ]
+     },
+     {
+      "text": "Namal Rajapaksa received 188 postal votes in the district.",
+      "cites": [
+       1
+      ]
+     }
+    ]
+   },
+   "audit": {
+    "raw": "HEADLINE: Polonnaruwa postal vote results released [1][2]\n\nAnura Kumara Dissanayake received 11,768 postal votes in Polonnaruwa [1][2].  \nSajith Premadasa received 4,120 votes in the district [1][2].  \nRanil Wickremesinghe received 2,762 postal votes in Polonnaruwa [1][2].  \nNamal Rajapaksa received 188 postal votes in the district [1].",
+    "rejected_sentences": 0,
+    "attempts": 1
+   },
+   "si": {
+    "headline": "පොලොන්නරුව තැපැල් ඡන්ද ප් රතිඵල නිකුත් කෙරේ",
+    "sentences": [
+     {
+      "text": "අනුරා කුමාර දිසානායක පොලොන්නරුවේ තැපැල් ඡන්ද 11,768 ක් ලබා ගත්තේය.",
+      "cites": [
+       1,
+       2
+      ]
+     },
+     {
+      "text": "සජිත් ප් රේමදාස මහතා දිස්ත් රික්කයේ ඡන්ද 4,120 ක් ලබා ගත්තේය.",
+      "cites": [
+       1,
+       2
+      ]
+     },
+     {
+      "text": "රනිල් වික් රමසිංහට පොලොන්නරුවේ තැපැල් ඡන්ද 2,762 ක් ලැබුණා.",
+      "cites": [
+       1,
+       2
+      ]
+     },
+     {
+      "text": "නාමල් රාජපක්ෂ මහතා දිස්ත් රික්කයේ තැපැල් ඡන්ද 188 ක් ලබා ගත්තේය.",
+      "cites": [
+       1
+      ]
+     }
+    ]
+   },
+   "ta": {
+    "headline": "பொலொனாரவு அஞ்சல் வாக்கு முடிவுகள் வெளியீடு",
+    "sentences": [
+     {
+      "text": "பொலோனாரவூவில் அனுரா குமார டிசனாயக்கே 11,768 தபால் வாக்குகளைப் பெற்றார்.",
+      "cites": [
+       1,
+       2
+      ]
+     },
+     {
+      "text": "சஜித் பிரேமதாசா மாவட்டத்தில் 4,120 வாக்குகளைப் பெற்றார்.",
+      "cites": [
+       1,
+       2
+      ]
+     },
+     {
+      "text": "ரணில் விக்ரமேசிங்கே பொலோனாரவூவில் 2,762 தபால் வாக்குகளைப் பெற்றார்.",
+      "cites": [
+       1,
+       2
+      ]
+     },
+     {
+      "text": "நமல் ராஜபக்ஷ மாவட்டத்தில் 188 தபால் வாக்குகளைப் பெற்றார்.",
+      "cites": [
+       1
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "story_id": 27134,
+   "n_articles": 46,
+   "n_outlets": 3,
+   "langs": [
+    "en",
+    "si",
+    "ta"
+   ],
+   "sources": [
+    {
+     "doc_id": "2024-09-22-adaderanalk-16453858",
+     "title": "Sajith wins Mullaitivu & Medawachchiya; Anura takes Bentara-Elpitiya",
+     "lang": "en",
+     "outlet": "Ada Derana",
+     "url": "https://www.adaderana.lk/news/102165/sajith-wins-mullaitivu-medawachchiya-anura-takes-bentara-elpitiya"
+    },
+    {
+     "doc_id": "2024-09-22-adaderanasinhalalk-22f2b4ff",
+     "title": "මුලතිව් ජය සජිත්ට",
+     "lang": "si",
+     "outlet": "Ada Derana (Sinhala)",
+     "url": "http://sinhala.adaderana.lk/news/201314"
+    },
+    {
+     "doc_id": "2024-09-22-virakesarilk-49488e1f",
+     "title": "ஹம்பாந்தோட்டை மாவட்டத்தில் அநுர முன்னிலை!",
+     "lang": "ta",
+     "outlet": "Virakesari",
+     "url": "https://www.virakesari.lk/article/194420"
+    }
+   ],
+   "en": {
+    "headline": "Sajith wins Mullaitivu, Medawachchiya",
+    "sentences": [
+     {
+      "text": "Sajith Premadasa received 28,301 votes in Mullaitivu polling division.",
+      "cites": [
+       1,
+       2
+      ]
+     },
+     {
+      "text": "He secured 30,877 votes in Medawachchiya polling division.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "Results for Bentara-Elpitiya show Dissanayake leading.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "Source reports different vote counts and candidates, inconsistent with other reports.",
+      "cites": [
+       3
+      ]
+     }
+    ]
+   },
+   "audit": {
+    "raw": "HEADLINE: Sajith wins Mullaitivu, Medawachchiya [1][2]\n\nSajith Premadasa received 28,301 votes in Mullaitivu polling division [1][2].  \nHe secured 30,877 votes in Medawachchiya polling division [1].  \nResults for Bentara-Elpitiya show Dissanayake leading [1].  \nSource [3] reports different vote counts and candidates, inconsistent with other reports [3].",
+    "rejected_sentences": 0,
+    "attempts": 1
+   },
+   "si": {
+    "headline": "සජිත් ජයග් රහණය කරනවා.",
+    "sentences": [
+     {
+      "text": "සජිත් ප් රේමදාස මහතා මුලතිව් ඡන්ද අංශයේ ඡන්ද 28,301 ක් ලබා ගත්තේය.",
+      "cites": [
+       1,
+       2
+      ]
+     },
+     {
+      "text": "මෙඩාවචියා මැතිවරණ අංශයේ ඔහු ඡන්ද 30,877 ක් ලබා ගත්තේය.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "බෙන්ටාරා-එල්පිටියා ප් රතිඵලයෙන් පෙන්නුම් කරන්නේ Dissanayake නායකත්වය දරන බවයි.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "මූලාශ් රය වාර්තා කරන්නේ විවිධ ඡන්ද ගණන් කිරීම් සහ අපේක්ෂකයින්, වෙනත් වාර්තා සමඟ නොගැලපෙන බවයි.",
+      "cites": [
+       3
+      ]
+     }
+    ]
+   },
+   "ta": {
+    "headline": "சஜித் முல்லைதிவ், மெடவச்சியாவை வென்றார்.",
+    "sentences": [
+     {
+      "text": "சஜித் பிரேமதாசா முல்லைதிவ் வாக்குப் பிரிவில் 28,301 வாக்குகளைப் பெற்றார்.",
+      "cites": [
+       1,
+       2
+      ]
+     },
+     {
+      "text": "மெடவச்சியா தேர்தல் பிரிவில் அவர் 30,877 வாக்குகளைப் பெற்றார்.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "பென்டாரா-எல்பிட்டியாவின் முடிவுகள் Dissanayake முன்னிலை வகிப்பதைக் காட்டுகின்றன.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "இதர அறிக்கைகளுடன் பொருந்தாத வெவ்வேறு வாக்கு எண்ணிக்கை மற்றும் வேட்பாளர்கள் என்று ஆதாரம் தெரிவிக்கிறது.",
+      "cites": [
+       3
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "story_id": 27109,
+   "n_articles": 3,
+   "n_outlets": 3,
+   "langs": [
+    "en",
+    "si",
+    "ta"
+   ],
+   "sources": [
+    {
+     "doc_id": "2024-09-22-adaderanalk-4f94273d",
+     "title": "Sri Lanka Police announcement on curfew passes",
+     "lang": "en",
+     "outlet": "Ada Derana",
+     "url": "https://www.adaderana.lk/news/102133/sri-lanka-police-announcement-on-curfew-passes-"
+    },
+    {
+     "doc_id": "2024-09-22-adaderanasinhalalk-4999cbe2",
+     "title": "ඇඳිරිනීති බලපත්‍ර ගැන පොලීසියෙන් දැනුම්දීමක්",
+     "lang": "si",
+     "outlet": "Ada Derana (Sinhala)",
+     "url": "http://sinhala.adaderana.lk/news/201284"
+    },
+    {
+     "doc_id": "2024-09-22-virakesarilk-04f8f34f",
+     "title": "ஊரடங்கு வேளையில் பயணம் - பொலிஸார் விடுத்துள்ள முக்கிய அறிவித்தல்",
+     "lang": "ta",
+     "outlet": "Virakesari",
+     "url": "https://www.virakesari.lk/article/194335"
+    }
+   ],
+   "en": {
+    "headline": "Sri Lanka curfew passes suspended for non-essential travel",
+    "sentences": [
+     {
+      "text": "Police will not issue curfew passes for general travel during the curfew.",
+      "cites": [
+       1,
+       2,
+       3
+      ]
+     },
+     {
+      "text": "Essential and emergency workers can use official ID cards as curfew passes.",
+      "cites": [
+       1,
+       2,
+       3
+      ]
+     },
+     {
+      "text": "The curfew is in effect from 10.00 p.m. tonight to 6.00 a.m. tomorrow.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "The curfew was imposed under the Public Security Ordinance following election results.",
+      "cites": [
+       1
+      ]
+     }
+    ]
+   },
+   "audit": {
+    "raw": "HEADLINE: Sri Lanka curfew passes suspended for non-essential travel [1][2][3]\n\nPolice will not issue curfew passes for general travel during the curfew [1][2][3].  \nEssential and emergency workers can use official ID cards as curfew passes [1][2][3].  \nThe curfew is in effect from 10.00 p.m. tonight to 6.00 a.m. tomorrow [1].  \nThe curfew was imposed under the Public Security Ordinance following election results [1].",
+    "rejected_sentences": 0,
+    "attempts": 1
+   },
+   "si": {
+    "headline": "අත් යවශ් ය නොවන සංචාර සඳහා ශ් රී ලංකා ඇඳිරි නීතිය අත්හිටුවා ඇත",
+    "sentences": [
+     {
+      "text": "පොලිසිය නිවාඩු කාලය තුළ සාමාන් ය සංචාර සඳහා නිවාඩු බලපත් ර නිකුත් නොකරයි.",
+      "cites": [
+       1,
+       2,
+       3
+      ]
+     },
+     {
+      "text": "අත් යවශ් ය සහ හදිසි සේවකයින්ට නිල හැඳුනුම්පත් භාවිතා කළ හැකිය.",
+      "cites": [
+       1,
+       2,
+       3
+      ]
+     },
+     {
+      "text": "රාත් රී 10.00 සිට හෙට උදේ 6.00 දක්වා ඇඳිරි නීතිය ක් රියාත්මකයි.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "මැතිවරණ ප් රතිඵල අනුව මහජන ආරක්ෂක නියෝග යටතේ ඇඳිරි නීතිය පනවා තිබෙනවා.",
+      "cites": [
+       1
+      ]
+     }
+    ]
+   },
+   "ta": {
+    "headline": "அத்தியாவசியமற்ற பயணங்களுக்கு இலங்கை ஊரடங்கு அனுமதிகள் இடைநிறுத்தப்பட்டன",
+    "sentences": [
+     {
+      "text": "ஊரடங்கு காலத்தில் பொது பயணிகளுக்கு ஊரடங்கு அனுமதி வழங்காது.",
+      "cites": [
+       1,
+       2,
+       3
+      ]
+     },
+     {
+      "text": "அத்தியாவசிய மற்றும் அவசரகால ஊழியர்கள் ஊரடங்கு அமலுக்கு வரும்போது அதிகாரப்பூர்வ அடையாள அட்டைகளைப் பயன்படுத்தலாம்.",
+      "cites": [
+       1,
+       2,
+       3
+      ]
+     },
+     {
+      "text": "இரவு 10 மணி முதல் நாளை காலை 6 மணி வரை ஊரடங்கு அமலில் உள்ளது.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "தேர்தல் முடிவுகளின் பின்னர் பொது பாதுகாப்பு உத்தரவின் கீழ் ஊரடங்கு அமல்படுத்தப்பட்டது.",
+      "cites": [
+       1
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "story_id": 27099,
+   "n_articles": 10,
+   "n_outlets": 4,
+   "langs": [
+    "en",
+    "si",
+    "ta"
+   ],
+   "sources": [
+    {
+     "doc_id": "2024-09-22-adalk-6ca40099",
+     "title": "දිවයිනට පැනවූ ඇඳිරි නීතිය දීර්ඝ කෙරේ",
+     "lang": "si",
+     "outlet": "Ada",
+     "url": "https://www.ada.lk/breaking_news/දිවයිනට-පැනවූ-ඇඳිරි-නීතිය-දීර්ඝ-කෙරේ/11-412062"
+    },
+    {
+     "doc_id": "2024-09-22-tamilmirrorlk-347a5f6b",
+     "title": "ஊரடங்கு சட்டம்: பொலிஸ் விசேட அறிவிப்பு",
+     "lang": "ta",
+     "outlet": "Tamil Mirror",
+     "url": "https://www.tamilmirror.lk/செய்திகள்/ஊரடங்கு-சட்டம்-பொலிஸ்-விசேட-அறிவிப்பு/175-344116"
+    },
+    {
+     "doc_id": "2024-09-22-adaderanasinhalalk-b607c0aa",
+     "title": "ඇඳිරි නීතිය ගැන පොලීසියෙන් නිවේදනයක්",
+     "lang": "si",
+     "outlet": "Ada Derana (Sinhala)",
+     "url": "http://sinhala.adaderana.lk/news/201371"
+    }
+   ],
+   "en": {
+    "headline": "Sri Lanka extends curfew until 6 a.m.",
+    "sentences": [
+     {
+      "text": "Curfew extended from 10 p.m. on 21 to 6 a.m. on 22.",
+      "cites": [
+       1,
+       3
+      ]
+     },
+     {
+      "text": "Police will not issue curfew permits during this period.",
+      "cites": [
+       2
+      ]
+     },
+     {
+      "text": "Essential services may use ID cards as curfew permits.",
+      "cites": [
+       2
+      ]
+     },
+     {
+      "text": "Curfew extension follows the 9th President's decision.",
+      "cites": [
+       3
+      ]
+     }
+    ]
+   },
+   "audit": {
+    "raw": "HEADLINE: Sri Lanka extends curfew until 6 a.m. [1][3]\n\nCurfew extended from 10 p.m. on 21 to 6 a.m. on 22 [1][3].  \nPolice will not issue curfew permits during this period [2].  \nEssential services may use ID cards as curfew permits [2].  \nCurfew extension follows the 9th President's decision [3].",
+    "rejected_sentences": 0,
+    "attempts": 1
+   },
+   "si": {
+    "headline": "ශ් රී ලංකාව උදෑසන 6 දක්වා ඇඳිරි නීතිය දීර්ඝ කරයි",
+    "sentences": [
+     {
+      "text": "21 වැනිදා රාත් රී 10.00 සිට 22 වැනිදා උදෑසන 6.00 දක්වා ඇඳිරි නීතිය දීර්ඝ කෙරිණි.",
+      "cites": [
+       1,
+       3
+      ]
+     },
+     {
+      "text": "පොලිසිය මෙම කාල සීමාව තුළ නිවාඩු බලපත් ර නිකුත් නොකරයි.",
+      "cites": [
+       2
+      ]
+     },
+     {
+      "text": "අත්යවශ්ය සේවාවන් සඳහා හැඳුනුම්පත් ඇඳිරි නීතියේ අවසරය ලෙස භාවිතා කළ හැකිය.",
+      "cites": [
+       2
+      ]
+     },
+     {
+      "text": "ඇඳිරි නීතිය දීර්ඝ කිරීම 9 වැනි ජනාධිපතිවරයාගේ තීරණයට අනුකූලයි.",
+      "cites": [
+       3
+      ]
+     }
+    ]
+   },
+   "ta": {
+    "headline": "இலங்கை காலை 6 மணி வரை ஊரடங்கு நீட்டிப்பு",
+    "sentences": [
+     {
+      "text": "21 ஆம் திகதி இரவு 10 மணி முதல் 22 ஆம் திகதி காலை 6 மணி வரை ஊரடங்கு நீட்டிப்பு.",
+      "cites": [
+       1,
+       3
+      ]
+     },
+     {
+      "text": "இந்த காலகட்டத்தில் பொலிசார் ஊரடங்கு அனுமதி வழங்க மாட்டார்கள்.",
+      "cites": [
+       2
+      ]
+     },
+     {
+      "text": "அத்தியாவசிய சேவைகள் அடையாள அட்டைகளை ஊரடங்கு அனுமதிகளாகப் பயன்படுத்தலாம்.",
+      "cites": [
+       2
+      ]
+     },
+     {
+      "text": "ஒன்பதாவது ஜனாதிபதியின் முடிவுக்குப் பிறகு ஊரடங்கு நீட்டிப்பு.",
+      "cites": [
+       3
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

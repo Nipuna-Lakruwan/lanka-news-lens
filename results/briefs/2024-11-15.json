@@ -1,0 +1,651 @@
+{
+ "date": "2024-11-15",
+ "stories": [
+  {
+   "story_id": 32631,
+   "n_articles": 19,
+   "n_outlets": 6,
+   "langs": [
+    "en",
+    "si",
+    "ta"
+   ],
+   "sources": [
+    {
+     "doc_id": "2024-11-15-adaderanalk-2c263438",
+     "title": "2024 General Election: NPP secures parliamentary majority",
+     "lang": "en",
+     "outlet": "Ada Derana",
+     "url": "https://www.adaderana.lk/news/103500/2024-general-election-npp-secures-parliamentary-majority"
+    },
+    {
+     "doc_id": "2024-11-15-bbccomsinhala-1c69b883",
+     "title": "මහ මැතිවරණය 2024: ජාතික ජන බලවේගයට ආසන 159ක ඓතිහාසික ජයක්!",
+     "lang": "si",
+     "outlet": "BBC Sinhala",
+     "url": "https://www.bbc.com/sinhala/articles/cq52ylj694vo"
+    },
+    {
+     "doc_id": "2024-11-15-tamilmirrorlk-b37fe9b9",
+     "title": "பெரும்பான்மை தேசிய மக்கள் சக்திக்கு",
+     "lang": "ta",
+     "outlet": "Tamil Mirror",
+     "url": "https://www.tamilmirror.lk/செய்திகள்/பெரும்பான்மை-தேசிய-மக்கள்-சக்திக்கு/175-347242"
+    },
+    {
+     "doc_id": "2024-11-15-adaderanasinhalalk-0d25b66b",
+     "title": "10 වෙනි පාර්ලිමේන්තුවේ බහුතර බලය ජාතික ජන බලවේගයට",
+     "lang": "si",
+     "outlet": "Ada Derana (Sinhala)",
+     "url": "http://sinhala.adaderana.lk/news/203387"
+    },
+    {
+     "doc_id": "2024-11-15-virakesarilk-a9276630",
+     "title": "அநுர தரப்புக்கு 18 தேசியப் பட்டியல் ஆசனங்கள் : முழு விபரம் இதோ",
+     "lang": "ta",
+     "outlet": "Virakesari",
+     "url": "https://www.virakesari.lk/article/198868"
+    },
+    {
+     "doc_id": "2024-11-15-adalk-c62bf2c0",
+     "title": "අවසන් ප්‍රතිඵලය හා ආසන බෙදී ගිය අයුරු",
+     "lang": "si",
+     "outlet": "Ada",
+     "url": "https://www.ada.lk/breaking_news/අවසන්-ප්‍රතිඵලය-හා-ආසන-බෙදී-ගිය-අයුරු/11-413067"
+    }
+   ],
+   "en": {
+    "headline": "NPP secures 123 seats in Sri Lankan Parliament",
+    "sentences": [
+     {
+      "text": "The National People’s Power (NPP) won 123 seats in the 225-member Parliament.",
+      "cites": [
+       1,
+       3
+      ]
+     },
+     {
+      "text": "The NPP secured a two-thirds majority with 16 seats in Gampaha District.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "The party has 159 seats including 18 national list seats.",
+      "cites": [
+       5,
+       6
+      ]
+     },
+     {
+      "text": "This gives NPP a parliamentary majority as it surpassed the 113-seat threshold.",
+      "cites": [
+       1,
+       4,
+       6
+      ]
+     }
+    ]
+   },
+   "audit": {
+    "raw": "HEADLINE: NPP secures 123 seats in Sri Lankan Parliament [1][3][4]  \nThe National People’s Power (NPP) won 123 seats in the 225-member Parliament [1][3].  \nThe NPP secured a two-thirds majority with 16 seats in Gampaha District [1].  \nThe party has 159 seats including 18 national list seats [5][6].  \nThis gives NPP a parliamentary majority as it surpassed the 113-seat threshold [1][4][6].",
+    "rejected_sentences": 0,
+    "attempts": 1
+   },
+   "si": {
+    "headline": "ශ් රී ලංකා පාර්ලිමේන්තුවේ ආසන 123ක් සඳහා ජාතික බලාගාරය සුරක්ෂිතයි",
+    "sentences": [
+     {
+      "text": "ජාතික ජන බලය (NPP) පාර්ලිමේන්තුවේ ආසන 123ක් දිනා ගත්තේය.",
+      "cites": [
+       1,
+       3
+      ]
+     },
+     {
+      "text": "ගම්පහ දිස්ත් රික්කයේ ආසන 16ක් සහිතව ජාතික බලාගාරය තුනෙන් දෙකක බහුතරයක් ලබා ගත්තේය.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "පක්ෂයට ජාතික ලැයිස්තුවේ ආසන 18 ක් ඇතුළු ආසන 159 ක් ඇත.",
+      "cites": [
+       5,
+       6
+      ]
+     },
+     {
+      "text": "මෙමගින් NPP පාර්ලිමේන්තු බහුතරය ලබා දී ඇති අතර එය ආසන 113 ක සීමාව ඉක්මවා ඇත.",
+      "cites": [
+       1,
+       4,
+       6
+      ]
+     }
+    ]
+   },
+   "ta": {
+    "headline": "இலங்கை நாடாளுமன்றத்தில் 123 இடங்களை தேசிய மின் நிலையம் பெற்றுள்ளது",
+    "sentences": [
+     {
+      "text": "225 உறுப்பினர்களைக் கொண்ட நாடாளுமன்றத்தில் தேசிய மக்கள் சக்தி 123 இடங்களை வென்றது.",
+      "cites": [
+       1,
+       3
+      ]
+     },
+     {
+      "text": "காம்பாகா மாவட்டத்தில் 16 இடங்களுடன் தேசிய மின் நிலையம் மூன்றில் இரண்டு பெரும்பான்மையைப் பெற்றது.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "கட்சிக்கு தேசிய பட்டியலில் 18 இடங்கள் உட்பட 159 இடங்கள் உள்ளன.",
+      "cites": [
+       5,
+       6
+      ]
+     },
+     {
+      "text": "இதன் மூலம் தேசிய மின்சாரக் கழகத்திற்கு பாராளுமன்ற பெரும்பான்மை கிடைத்துள்ளது.",
+      "cites": [
+       1,
+       4,
+       6
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "story_id": 32770,
+   "n_articles": 6,
+   "n_outlets": 5,
+   "langs": [
+    "en",
+    "si",
+    "ta"
+   ],
+   "sources": [
+    {
+     "doc_id": "2024-11-15-adaderanalk-3910eaa6",
+     "title": "Seven injured as truck collides with train in Weligama",
+     "lang": "en",
+     "outlet": "Ada Derana",
+     "url": "https://www.adaderana.lk/news/103526/seven-injured-as-truck-collides-with-train-in-weligama-"
+    },
+    {
+     "doc_id": "2024-11-15-adaderanasinhalalk-99221687",
+     "title": "කුඩා ලොරියක් දුම්රියේ ගැටෙයි",
+     "lang": "si",
+     "outlet": "Ada Derana (Sinhala)",
+     "url": "http://sinhala.adaderana.lk/news/203409"
+    },
+    {
+     "doc_id": "2024-11-15-tamilmirrorlk-d57305ba",
+     "title": "ரயில் விபத்தில் ஏழு பேர் படுகாயம்",
+     "lang": "ta",
+     "outlet": "Tamil Mirror",
+     "url": "https://www.tamilmirror.lk/செய்திகள்/ரயில்-விபத்தில்-ஏழு-பேர்-படுகாயம்/175-347266"
+    }
+   ],
+   "en": {
+    "headline": "Seven injured in Weligama train-truck collision",
+    "sentences": [
+     {
+      "text": "A light truck collided with a train at a railway crossing in Weligama.",
+      "cites": [
+       1,
+       2,
+       3
+      ]
+     },
+     {
+      "text": "The driver disobeyed a red signal at the Polwatte Weligama level crossing.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "Seven people, including two children, were injured and hospitalized, some in critical condition.",
+      "cites": [
+       1,
+       2,
+       3
+      ]
+     }
+    ]
+   },
+   "audit": {
+    "raw": "HEADLINE: Seven injured in Weligama train-truck collision [1][2][3]\n\nA light truck collided with a train at a railway crossing in Weligama [1][2][3].\n\nThe driver disobeyed a red signal at the Polwatte Weligama level crossing [1].\n\nSeven people, including two children, were injured and hospitalized, some in critical condition [1][2][3].",
+    "rejected_sentences": 0,
+    "attempts": 1
+   },
+   "si": {
+    "headline": "විලිගාමා දුම්රිය ට් රක් රථයක ගැටීමෙන් 7 දෙනෙකු තුවාල ලබා ඇත",
+    "sentences": [
+     {
+      "text": "වෙලිගමාවේ දුම්රිය හරස් මාර්ගයක සැහැල්ලු ට් රක් රථයක් දුම්රියකට ගැටුණා.",
+      "cites": [
+       1,
+       2,
+       3
+      ]
+     },
+     {
+      "text": "රියදුරා පොල්වාට් විලිගාමා මට්ටමේ හරස් මාර්ගයේ රතු සංඥාවකට අකීකරු විය.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "දරුවන් දෙදෙනෙකු ඇතුළු පුද්ගලයින් හත් දෙනෙකු තුවාල වී රෝහල්ගත කර ඇත.",
+      "cites": [
+       1,
+       2,
+       3
+      ]
+     }
+    ]
+   },
+   "ta": {
+    "headline": "வெலிகாமாவில் ரயில்-டரக் மோதியதில் ஏழு பேர் காயமடைந்தனர்",
+    "sentences": [
+     {
+      "text": "வேலிகாமாவில் உள்ள ஒரு ரயில் பாதைக்கு ஒரு இலகுரக லாரி ஒரு ரயிலுடன் மோதியது.",
+      "cites": [
+       1,
+       2,
+       3
+      ]
+     },
+     {
+      "text": "போலவாட் வெலிகாமா மட்டக் குறுக்குவெளியில் ஒரு சிவப்பு சமிக்ஞைக்கு டிரைவர் கீழ்ப்படியவில்லை.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "இரண்டு குழந்தைகள் உட்பட ஏழு பேர் காயமடைந்து மருத்துவமனையில் அனுமதிக்கப்பட்டனர்.",
+      "cites": [
+       1,
+       2,
+       3
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "story_id": 32678,
+   "n_articles": 39,
+   "n_outlets": 4,
+   "langs": [
+    "si",
+    "ta"
+   ],
+   "sources": [
+    {
+     "doc_id": "2024-11-15-adalk-8ee34026",
+     "title": "බදුල්ල දිස්ත්‍රික්කය මනාප ප්‍රථිඵල",
+     "lang": "si",
+     "outlet": "Ada",
+     "url": "https://www.ada.lk/breaking_news/බදුල්ල-දිස්ත්‍රික්කය-මනාප-ප්‍රථිඵල/11-413062"
+    },
+    {
+     "doc_id": "2024-11-15-tamilmirrorlk-dd6fea24",
+     "title": "காலி மாவட்டம் - அக்மீமன தேர்தல் முடிவுகள்",
+     "lang": "ta",
+     "outlet": "Tamil Mirror",
+     "url": "https://www.tamilmirror.lk/செய்திகள்/காலி-மாவட்டம்-அக்மீமன-தேர்தல்-முடிவுகள்/175-347166"
+    },
+    {
+     "doc_id": "2024-11-15-adaderanasinhalalk-8c728f8a",
+     "title": "මාතලේ දිස්ත්‍රික්කයේ මනාප ප්‍රතිඵලය",
+     "lang": "si",
+     "outlet": "Ada Derana (Sinhala)",
+     "url": "http://sinhala.adaderana.lk/news/203386"
+    },
+    {
+     "doc_id": "2024-11-15-virakesarilk-a561b228",
+     "title": "களுத்துறை மாவட்டம் பண்டாரகம தேர்தல் தொகுதி வாக்களிப்பு முடிவு",
+     "lang": "ta",
+     "outlet": "Virakesari",
+     "url": "https://www.virakesari.lk/article/198793"
+    }
+   ],
+   "en": {
+    "headline": "Election results declared in Kaludi and Kallarikai districts",
+    "sentences": [
+     {
+      "text": "Election results for Kaludi District have been announced.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "Results for Kallarikai District were released by Tamil Mirror.",
+      "cites": [
+       2
+      ]
+     },
+     {
+      "text": "Voting results for Pandaraka constituency in Kallarikai District are finalized.",
+      "cites": [
+       4
+      ]
+     },
+     {
+      "text": "No results were reported for Matale District.",
+      "cites": [
+       3
+      ]
+     }
+    ]
+   },
+   "audit": {
+    "raw": "HEADLINE: Election results declared in Kaludi and Kallarikai districts [1][2][4]\n\nElection results for Kaludi District have been announced [1].  \nResults for Kallarikai District were released by Tamil Mirror [2].  \nVoting results for Pandaraka constituency in Kallarikai District are finalized [4].  \nNo results were reported for Matale District [3].",
+    "rejected_sentences": 0,
+    "attempts": 1
+   },
+   "si": {
+    "headline": "Kaludi සහ Kallarikai දිස්ත් රික්කවල මැතිවරණ ප් රතිඵල ප් රකාශයට පත් කෙරේ",
+    "sentences": [
+     {
+      "text": "කැලුඩි දිස්ත් රික්කයේ මැතිවරණ ප් රතිඵල නිවේදනය කර තිබෙනවා.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "කලුරකයි දිස්ත් රික්කයේ ප් රතිඵල දෙමළ මිරර් විසින් නිකුත් කරන ලදී.",
+      "cites": [
+       2
+      ]
+     },
+     {
+      "text": "කැලරකයි දිස්ත් රික්කයේ පැන්ඩාරකා මැතිවරණ ප් රදේශයේ ඡන්ද ප් රතිඵල අවසන්.",
+      "cites": [
+       4
+      ]
+     },
+     {
+      "text": "Matale දිස්ත් රික්කය සඳහා කිසිදු ප් රතිඵලයක් වාර්තා වී නොමැත.",
+      "cites": [
+       3
+      ]
+     }
+    ]
+   },
+   "ta": {
+    "headline": "கலுடி மற்றும் கல்லாரை மாவட்டங்களில் தேர்தல் முடிவுகள் அறிவிக்கப்பட்டுள்ளன",
+    "sentences": [
+     {
+      "text": "கலுடி மாவட்ட தேர்தல் முடிவுகள் அறிவிக்கப்பட்டுள்ளன.",
+      "cites": [
+       1
+      ]
+     },
+     {
+      "text": "கலாரகாய் மாவட்டத்தின் முடிவுகளை தமிழ் மிரர் வெளியிட்டது.",
+      "cites": [
+       2
+      ]
+     },
+     {
+      "text": "கலாரகாய் மாவட்டத்தில் உள்ள பண்டாரகா தொகுதிக்கான வாக்குப்பதிவு முடிவுகள் இறுதி செய்யப்பட்டுள்ளன.",
+      "cites": [
+       4
+      ]
+     },
+     {
+      "text": "மடலே மாவட்டத்தில் எந்த முடிவுகளும் தெரிவிக்கப்படவில்லை.",
+      "cites": [
+       3
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "story_id": 32729,
+   "n_articles": 3,
+   "n_outlets": 3,
+   "langs": [
+    "en",
+    "si"
+   ],
+   "sources": [
+    {
+     "doc_id": "2024-11-15-adaderanalk-6b1cec34",
+     "title": "Prominent former MPs lose out as 2024 General Election results roll in",
+     "lang": "en",
+     "outlet": "Ada Derana",
+     "url": "https://www.adaderana.lk/news/103492/prominent-former-mps-lose-out-as-2024-general-election-results-roll-in"
+    },
+    {
+     "doc_id": "2024-11-15-bbccomsinhala-6e4095d7",
+     "title": "මෙවර මහ මැතිවරණයේදී පාර්ලිමේන්තුවෙන් අතු ගා දැමුණු හිටපු මන්ත්‍රීවරුන් කවු ද?",
+     "lang": "si",
+     "outlet": "BBC Sinhala",
+     "url": "https://www.bbc.com/sinhala/articles/c1ml78x3l5mo"
+    },
+    {
+     "doc_id": "2024-11-15-adalk-deb8d349",
+     "title": "මැතිවරණයෙන් පාර්ලිමේන්තු අසුන අහිමිවන මන්ත්‍රීවරුන්",
+     "lang": "si",
+     "outlet": "Ada",
+     "url": "https://www.ada.lk/breaking_news/මැතිවරණයෙන්-පාර්ලිමේන්තු-අසුන-අහිමිවන-මන්ත්‍රීවරුන්/11-413060"
+    }
+   ],
+   "en": {
+    "headline": "Key ex-MPs lose seats in Sri Lanka election",
+    "sentences": [
+     {
+      "text": "Several former ministers lost their parliamentary seats in the 2024 election.",
+      "cites": [
+       1,
+       3
+      ]
+     },
+     {
+      "text": "The election marks a historic shift as long-serving MPs were ousted.",
+      "cites": [
+       2,
+       3
+      ]
+     },
+     {
+      "text": "The results show a significant decline in former government representation.",
+      "cites": [
+       1,
+       3
+      ]
+     },
+     {
+      "text": "The former MPs were part of a decade-long parliamentary tradition.",
+      "cites": [
+       2,
+       3
+      ]
+     }
+    ]
+   },
+   "audit": {
+    "raw": "HEADLINE: Key ex-MPs lose seats in Sri Lanka election [1][3]\n\nSeveral former ministers lost their parliamentary seats in the 2024 election [1][3].  \nThe election marks a historic shift as long-serving MPs were ousted [2][3].  \nThe results show a significant decline in former government representation [1][3].  \nThe former MPs were part of a decade-long parliamentary tradition [2][3].",
+    "rejected_sentences": 0,
+    "attempts": 1
+   },
+   "si": {
+    "headline": "ශ් රී ලංකා මැතිවරණයේදී ප් රධාන හිටපු මන්ත් රීවරුන් ආසන අහිමි වේ",
+    "sentences": [
+     {
+      "text": "2024 මැතිවරණයේදී හිටපු ඇමතිවරුන් කිහිප දෙනෙකුට පාර්ලිමේන්තු ආසන අහිමි විය.",
+      "cites": [
+       1,
+       3
+      ]
+     },
+     {
+      "text": "මෙම මැතිවරණය තිහාසික වෙනසක් පෙන්නුම් කරයි. දීර්ඝ කාලයක් සේවය කළ මන්ත් රීවරුන් අහෝසි කරන ලදී.",
+      "cites": [
+       2,
+       3
+      ]
+     },
+     {
+      "text": "ප් රතිඵල පෙන්නුම් කරන්නේ හිටපු රජයේ නියෝජනය සැලකිය යුතු ලෙස පහත වැටීමකි.",
+      "cites": [
+       1,
+       3
+      ]
+     },
+     {
+      "text": "හිටපු මන්ත් රීවරු දශකයක පාර්ලිමේන්තු සම්ප් රදායක කොටසක් වූහ.",
+      "cites": [
+       2,
+       3
+      ]
+     }
+    ]
+   },
+   "ta": {
+    "headline": "இலங்கை தேர்தலில் முக்கிய முன்னாள் எம். பி. க்கள் இடங்களை இழக்கின்றனர்",
+    "sentences": [
+     {
+      "text": "2024 தேர்தலில் பல முன்னாள் அமைச்சர்கள் பாராளுமன்றத் தொகுதிகளை இழந்தனர்.",
+      "cites": [
+       1,
+       3
+      ]
+     },
+     {
+      "text": "நீண்டகால நாடாளுமன்ற உறுப்பினர்கள் பதவி விலகியதால் இந்த தேர்தல் வரலாற்று மாற்றத்தை குறிக்கிறது.",
+      "cites": [
+       2,
+       3
+      ]
+     },
+     {
+      "text": "முன்னாள் அரசாங்கத்தின் பிரதிநிதித்துவத்தில் குறிப்பிடத்தக்க வீழ்ச்சி ஏற்பட்டுள்ளதாக முடிவுகள் காட்டுகின்றன.",
+      "cites": [
+       1,
+       3
+      ]
+     },
+     {
+      "text": "முன்னாள் நாடாளுமன்ற உறுப்பினர்கள் ஒரு தசாப்த கால பாராளுமன்ற பாரம்பரியத்தின் ஒரு பகுதியாக இருந்தனர்.",
+      "cites": [
+       2,
+       3
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "story_id": 32687,
+   "n_articles": 3,
+   "n_outlets": 2,
+   "langs": [
+    "si",
+    "ta"
+   ],
+   "sources": [
+    {
+     "doc_id": "2024-11-15-adalk-0ec37a0e",
+     "title": "මනූෂ හා රමේෂ් පරාදයි",
+     "lang": "si",
+     "outlet": "Ada",
+     "url": "https://www.ada.lk/breaking_news/මනූෂ-හා-රමේෂ්-පරාදයි/11-413046"
+    },
+    {
+     "doc_id": "2024-11-15-tamilmirrorlk-f0ad7fa8",
+     "title": "காலியில் முன்னாள் அமைச்சர்கள் இருவர் அவுட்",
+     "lang": "ta",
+     "outlet": "Tamil Mirror",
+     "url": "https://www.tamilmirror.lk/செய்திகள்/காலியில்-முன்னாள்-அமைச்சர்கள்-இருவர்-அவுட்/175-347195"
+    }
+   ],
+   "en": {
+    "headline": "Two ex-ministers lose parliamentary seats",
+    "sentences": [
+     {
+      "text": "Two former ministers, Manush Nayanakkar and Ramesh Pattirana, lost their parliamentary seats.",
+      "cites": [
+       1,
+       2
+      ]
+     },
+     {
+      "text": "They contested seats in the Kali district under the new Janatha Vimukthi Party.",
+      "cites": [
+       2
+      ]
+     },
+     {
+      "text": "The new Janatha Party did not provide any seat in Kali district to either candidate.",
+      "cites": [
+       2
+      ]
+     }
+    ]
+   },
+   "audit": {
+    "raw": "HEADLINE: Two ex-ministers lose parliamentary seats [1][2]\n\nTwo former ministers, Manush Nayanakkar and Ramesh Pattirana, lost their parliamentary seats [1][2].\n\nThey contested seats in the Kali district under the new Janatha Vimukthi Party [2].\n\nThe new Janatha Party did not provide any seat in Kali district to either candidate [2].",
+    "rejected_sentences": 0,
+    "attempts": 1
+   },
+   "si": {
+    "headline": "හිටපු ඇමතිවරුන් දෙදෙනෙකුට පාර්ලිමේන්තු ආසන අහිමි වෙනවා",
+    "sentences": [
+     {
+      "text": "හිටපු ඇමතිවරුන් දෙදෙනෙකු වන මනූෂ් නයනාකර සහ රමේෂ් පතිරානා පාර්ලිමේන්තු ආසන අහිමි විය.",
+      "cites": [
+       1,
+       2
+      ]
+     },
+     {
+      "text": "ඔවුන් නව ජනතා විමුක්ති පක්ෂය යටතේ කැලි දිස්ත් රික්කයේ ආසන සඳහා තරඟ කළහ.",
+      "cites": [
+       2
+      ]
+     },
+     {
+      "text": "නව ජනතා පක්ෂය කාලි දිස්ත් රික්කයේ කිසිදු අපේක්ෂකයෙකුට ආසනයක් ලබා දුන්නේ නැත.",
+      "cites": [
+       2
+      ]
+     }
+    ]
+   },
+   "ta": {
+    "headline": "இரண்டு முன்னாள் அமைச்சர்கள் பாராளுமன்ற இடங்களை இழக்கின்றனர்",
+    "sentences": [
+     {
+      "text": "முன்னாள் அமைச்சர்கள் மானுஷ் நயன்கர் மற்றும் ரமேஷ் பட்ரினா ஆகிய இருவரும் நாடாளுமன்றத் தொகுதிகளை இழந்தனர்.",
+      "cites": [
+       1,
+       2
+      ]
+     },
+     {
+      "text": "அவர்கள் புதிய ஜனதா விமுக்தி கட்சியின் கீழ் காலி மாவட்டத்தில் தொகுதிகளில் போட்டியிட்டனர்.",
+      "cites": [
+       2
+      ]
+     },
+     {
+      "text": "புதிய ஜனதா கட்சி காலி மாவட்டத்தில் எந்த ஒரு வேட்பாளருக்கும் எந்த இடத்தையும் வழங்கவில்லை.",
+      "cites": [
+       2
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

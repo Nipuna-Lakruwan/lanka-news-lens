@@ -1,0 +1,110 @@
+{
+  "args": {
+    "model": "intfloat/multilingual-e5-small",
+    "epochs": 2,
+    "bs": 16,
+    "lr": 5e-05,
+    "max_len": 128,
+    "out": "models/lk-news-topic-classifier",
+    "eval_only": true
+  },
+  "note": "Evaluated the checkpoint saved after epoch 1 of 2 (weak-val macro-F1 0.917); the run stopped during epoch 2 on the shared machine.",
+  "train_size": 20176,
+  "train_log": [],
+  "train_minutes": 0.2,
+  "device": "mps",
+  "test": {
+    "all": {
+      "n": 450,
+      "macro_f1": 0.715,
+      "macro_f1_ci95": [
+        0.657,
+        0.761
+      ],
+      "accuracy": 0.722
+    },
+    "en": {
+      "n": 150,
+      "macro_f1": 0.743,
+      "macro_f1_ci95": [
+        0.662,
+        0.835
+      ],
+      "accuracy": 0.767
+    },
+    "si": {
+      "n": 150,
+      "macro_f1": 0.707,
+      "macro_f1_ci95": [
+        0.622,
+        0.77
+      ],
+      "accuracy": 0.7
+    },
+    "ta": {
+      "n": 150,
+      "macro_f1": 0.645,
+      "macro_f1_ci95": [
+        0.594,
+        0.779
+      ],
+      "accuracy": 0.7
+    },
+    "per_class": {
+      "politics": {
+        "precision": 0.776,
+        "recall": 0.798,
+        "f1-score": 0.787,
+        "support": 104
+      },
+      "economy": {
+        "precision": 0.68,
+        "recall": 0.895,
+        "f1-score": 0.773,
+        "support": 76
+      },
+      "crime": {
+        "precision": 0.738,
+        "recall": 0.775,
+        "f1-score": 0.756,
+        "support": 80
+      },
+      "disaster_weather": {
+        "precision": 0.885,
+        "recall": 0.719,
+        "f1-score": 0.793,
+        "support": 32
+      },
+      "health": {
+        "precision": 0.444,
+        "recall": 0.8,
+        "f1-score": 0.571,
+        "support": 10
+      },
+      "sports": {
+        "precision": 0.947,
+        "recall": 1.0,
+        "f1-score": 0.973,
+        "support": 18
+      },
+      "education": {
+        "precision": 0.444,
+        "recall": 1.0,
+        "f1-score": 0.615,
+        "support": 8
+      },
+      "international": {
+        "precision": 0.818,
+        "recall": 0.628,
+        "f1-score": 0.711,
+        "support": 43
+      },
+      "other": {
+        "precision": 0.622,
+        "recall": 0.354,
+        "f1-score": 0.452,
+        "support": 79
+      }
+    }
+  }
+}
